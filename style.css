@@ -142,3 +142,25 @@ p{
 	letter-spacing:.3px;
 	opacity:.85;
 }
+
+@media (max-width: 768px){
+
+    .foto{
+        width:55px !important;
+        height:55px !important;
+    }
+
+    .judul{
+        font-size:28px;
+    }
+
+    .nama{
+        font-size:20px;
+    }
+
+    #playBtn{
+        padding:12px 24px;
+        font-size:16px;
+    }
+
+}
